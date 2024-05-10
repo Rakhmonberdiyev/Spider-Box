@@ -13,6 +13,7 @@ import menu6 from './pepperoni_double.jpeg'
 import menu7 from './pepperoni_fresh.jpeg'
 import menu8 from './seplonic_sirniy.jpeg'
 import menu9 from './super_meat.jpeg'
+import food_1 from './food_1.webp'
 
 export const assets = {
     menu1,
